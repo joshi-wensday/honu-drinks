@@ -9,7 +9,7 @@ blocks:
       # testing
     carouselStyle: cards
     carouselBackgroundVideo: ''
-    carouselBackgroundFallbackImage: /assets/images/backgrounds/aaabstract (5).webp
+    carouselBackgroundFallbackImage: ''
     itineraryCarousel:
       - title: BlueBoy
         header: |
