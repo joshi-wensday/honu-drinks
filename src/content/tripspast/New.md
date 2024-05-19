@@ -2,6 +2,14 @@
 fileName: New
 blocks:
   - message: |
+      llllllllllllllooooooooooooooooooooolllllllllllllll
+
+      # lol**lolllll**
+    links:
+      - label: Link
+        style: light
+    _template: content
+  - message: |
       # test
     badges:
       - badge: test
