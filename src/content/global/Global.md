@@ -1,5 +1,5 @@
 ---
-theme: silver blue
+theme: dark cappuccino
 sheetGoogleForm:
   buttonText: Google Form
   embeddedFormURL: >-
