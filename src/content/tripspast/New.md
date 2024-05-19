@@ -7,7 +7,7 @@ blocks:
       - badge: test
     carouselTitle: |
       # testing
-    carouselStyle: cards
+    carouselStyle: click
     carouselBackgroundVideo: ''
     carouselBackgroundFallbackImage: ''
     itineraryCarousel:
