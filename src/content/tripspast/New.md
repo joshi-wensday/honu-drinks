@@ -11,6 +11,12 @@ blocks:
     carouselBackgroundVideo: ''
     carouselBackgroundFallbackImage: ''
     itineraryCarousel:
+      - title: RedBoy
+        header: |
+          ## RedBoy
+        description: ''
+        specialStyle: circle
+        specialColor: red
       - title: BlueBoy
         header: |
           ## BlueBoy
