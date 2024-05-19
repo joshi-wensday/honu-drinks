@@ -1,5 +1,5 @@
 ---
-theme: silver blue
+theme: dark zinc
 sheetGoogleForm:
   buttonText: Google Form
   embeddedFormURL: >-
