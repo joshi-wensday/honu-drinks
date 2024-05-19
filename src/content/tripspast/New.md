@@ -12,11 +12,13 @@ blocks:
     itineraryCarousel:
       - title: BlueBoy
         header: |
-          ## General
+          ## BlueBoy
         description: |
           hello darkness mz old fren
         badges:
           - badge: uno
+        specialStyle: circle
+        specialColor: cyan
     _template: itinerary
 ---
 
